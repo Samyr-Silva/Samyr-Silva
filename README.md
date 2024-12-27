@@ -9,6 +9,7 @@
 
 ### 📊 My GitHub Statistics
 
+
 <a href="https://github.com/Samyr-Silva/github-readme-stats">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Samyr-Silva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&v=2"/>
 </a>
